@@ -50,7 +50,7 @@
 <hr>
 
 <footer>
-	<p class="footer-text"><a class="a-footer" href="">neitraM</a> | <a href="" class="a-footer"><em>Création $matteo</em></a></p>
+	<p class="footer-text"><a class="a-footer" href="https://www.instagram.com/__reeemy__/">neitraM</a> | <a href="https://www.instagram.com/_.matt.eo.__/" class="a-footer"><em>Création $matteo</em></a></p>
 </footer>
 
 </body>
