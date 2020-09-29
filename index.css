@@ -92,6 +92,10 @@ header{
 		flex-direction: column;
 		width: 70%;
 	}
+	.img-ep{
+		width: 500px;
+		height: auto;
+	}
 	.more{
 		display: block;
 		margin:auto;
