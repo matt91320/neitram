@@ -114,6 +114,7 @@ footer{
 	.ep{
 		flex-direction: column;
 		width: 70%;
+		border: none;
 	}
 	.img-ep{
 		width: 500px;
