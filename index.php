@@ -47,11 +47,14 @@
 <br>
 <br>
 
-<hr>
+<hr style="width: 60%;">
 
 <footer>
-	<p class="footer-text"><a class="a-footer" href="https://www.instagram.com/__reeemy__/">neitraM</a> | <a href="https://www.instagram.com/_.matt.eo.__/" class="a-footer"><em>Création $matteo</em></a></p>
+	<a href="https://www.instagram.com/__reeemy__/" class="neitram-link">neitraM</a>
+	<a href="https://www.instagram.com/_.matt.eo.__/" class="matteo-link">$matteo</a>
 </footer>
 
 </body>
 </html>
+
+
