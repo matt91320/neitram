@@ -129,8 +129,9 @@ footer{
 		margin:auto;
 	}
 	.link{
-		font-size: 30px;
+		font-size: 35px;
 		width: 70%;
+		padding: 20px;
 	}
 	.ep-titre{
 		font-size: 35px;
