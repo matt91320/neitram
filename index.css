@@ -173,7 +173,7 @@ footer{
 	}
 	.div-link{
 		display: flex;
-		justify-content: center;
+		justify-content: flex-start;
 	}
 
 }
