@@ -169,6 +169,11 @@ footer{
 	.img-plateforme{
 	width: 100px;
 	height: auto;
-}
+	margin:auto;
+	}
+	.div-link{
+		display: flex;
+		justify-content: space-around;
+	}
 
 }
