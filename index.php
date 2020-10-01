@@ -28,19 +28,73 @@
 <br>
 <br>
 
-	<a href="https://music.apple.com/us/album/lunatique-solitaire/1530735731" class="link">Apple Music</a>
+<a href="https://music.apple.com/us/album/lunatique-solitaire/1530735731" class="link">
+<div class="div-link">
+	<img src="src/img/apple.png" class="img-plateforme" />
+	<p class="text-plateforme">Apple Music</p>
+</div>
+</a>
+
+
 	<br>
-	<a href="https://open.spotify.com/album/7ocLcJqFtsOghtf9XPtTyV" class="link">Spotify</a>
+
+<a href="https://open.spotify.com/album/7ocLcJqFtsOghtf9XPtTyV" class="link">
+<div class="div-link">
+	<img src="src/img/spotify.png" class="img-plateforme" />
+	<p class="text-plateforme">Spotify</p>
+</div>
+</a>
+
 		<br>
-	<a href="https://www.youtube.com/watch?v=_tQD1hk-cCk&list=OLAK5uy_nDGnevo5DNe1yVm29CchsMZ1S26ZHKdfk" class="link">YouTube</a>
+
+<a href="https://www.youtube.com/watch?v=_tQD1hk-cCk&list=OLAK5uy_nDGnevo5DNe1yVm29CchsMZ1S26ZHKdfk" class="link">
+<div class="div-link">
+	<img src="src/img/ytb.png" class="img-plateforme" />
+	<p class="text-plateforme">YouTube</p>
+</div>
+</a>
+
+
 		<br>
-	<a href="https://www.deezer.com/fr/album/171671422" class="link">Deezer</a>
+
+
+<a href="https://www.deezer.com/fr/album/171671422" class="link">	
+<div class="div-link">
+	<img src="src/img/deezer.png" class="img-plateforme" />
+	<p class="text-plateforme">Deezer</p>
+</div>
+</a>
+
 			<br>
-	<a href="https://www.amazon.fr/Lunatique-Solitaire-Explicit-neitraM/dp/B08HL9S2NY/ref=mp_s_a_1_1?dchild=1&keywords=neitram+lunatique+solitaire&qid=1601409916&sr=8-1" class="link">Amazon Music</a>
+
+
+<a href="https://www.amazon.fr/Lunatique-Solitaire-Explicit-neitraM/dp/B08HL9S2NY/ref=mp_s_a_1_1?dchild=1&keywords=neitram+lunatique+solitaire&qid=1601409916&sr=8-1" class="link">
+<div class="div-link">
+	<img src="src/img/amazon.png" class="img-plateforme" />
+	<p class="text-plateforme">Amazon Music</p>
+</div>
+</a>
+
 			<br>
-	<a href="https://fr.napster.com/artist/neitram/album/lunatique-solitaire" class="link">Napster</a>
+
+
+<a href="https://fr.napster.com/artist/neitram/album/lunatique-solitaire" class="link">
+<div class="div-link">
+	<img src="src/img/napster.png" class="img-plateforme" />
+	<p class="text-plateforme">Napster</p>
+</div>
+</a>
+
 			<br>
-	<a href="https://play.google.com/store/music/album/neitraM_Lunatique_Solitaire?id=Bq25xgepik5xuynrvwckagap3hm" class="link">Google Play Music</a>
+
+
+<a href="https://play.google.com/store/music/album/neitraM_Lunatique_Solitaire?id=Bq25xgepik5xuynrvwckagap3hm" class="link">
+<div class="div-link">
+	<img src="src/img/google.png" class="img-plateforme" />
+	<p class="text-plateforme">Google Play Music</p>
+</div>
+</a>
+
 
 <br>
 <br>
