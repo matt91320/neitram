@@ -166,5 +166,9 @@ footer{
 		text-align: center;
 		padding: 25px;
 	}
+	.img-plateforme{
+	width: 30px;
+	height: auto;
+}
 
 }
